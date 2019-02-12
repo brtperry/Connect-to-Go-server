@@ -1,0 +1,22 @@
+C:\Users\pcbpy\Documents\Visual Studio 2013\Projects\ConnectToGoServer\ConnectToGoServer\bin\Debug\ConnectToGoServer.exe
+C:\Users\pcbpy\Documents\Visual Studio 2013\Projects\ConnectToGoServer\ConnectToGoServer\bin\Debug\ConnectToGoServer.pdb
+C:\Users\pcbpy\Documents\Visual Studio 2013\Projects\ConnectToGoServer\ConnectToGoServer\obj\Debug\ConnectToGoServer.csprojResolveAssemblyReference.cache
+C:\Users\pcbpy\Documents\Visual Studio 2013\Projects\ConnectToGoServer\ConnectToGoServer\obj\Debug\ConnectToGoServer.Form1.resources
+C:\Users\pcbpy\Documents\Visual Studio 2013\Projects\ConnectToGoServer\ConnectToGoServer\obj\Debug\ConnectToGoServer.Properties.Resources.resources
+C:\Users\pcbpy\Documents\Visual Studio 2013\Projects\ConnectToGoServer\ConnectToGoServer\obj\Debug\ConnectToGoServer.csproj.GenerateResource.Cache
+C:\Users\pcbpy\Documents\Visual Studio 2013\Projects\ConnectToGoServer\ConnectToGoServer\obj\Debug\ConnectToGoServer.exe
+C:\Users\pcbpy\Documents\Visual Studio 2013\Projects\ConnectToGoServer\ConnectToGoServer\obj\Debug\ConnectToGoServer.pdb
+C:\Users\pcbpy\Google Drive\Dev\c#\ConnectToGoServer\ConnectToGoServer\obj\Debug\ConnectToGoServer.exe
+C:\Users\pcbpy\Google Drive\Dev\c#\ConnectToGoServer\ConnectToGoServer\obj\Debug\ConnectToGoServer.pdb
+C:\Users\pcbpy\Google Drive\Dev\c#\ConnectToGoServer\ConnectToGoServer\bin\Debug\ConnectToGoServer.exe
+C:\Users\pcbpy\Google Drive\Dev\c#\ConnectToGoServer\ConnectToGoServer\bin\Debug\ConnectToGoServer.pdb
+C:\Users\pcbpy\Google Drive\Dev\c#\ConnectToGoServer\ConnectToGoServer\obj\Debug\ConnectToGoServer.Form1.resources
+C:\Users\pcbpy\Google Drive\Dev\c#\ConnectToGoServer\ConnectToGoServer\obj\Debug\ConnectToGoServer.Properties.Resources.resources
+C:\Users\pcbpy\Google Drive\Dev\c#\ConnectToGoServer\ConnectToGoServer\obj\Debug\ConnectToGoServer.csproj.GenerateResource.Cache
+C:\Users\pcbpy\Documents\Visual Studio 2013\Projects\c#\ConnectToGoServer\ConnectToGoServer\obj\Debug\ConnectToGoServer.exe
+C:\Users\pcbpy\Documents\Visual Studio 2013\Projects\c#\ConnectToGoServer\ConnectToGoServer\obj\Debug\ConnectToGoServer.pdb
+C:\Users\pcbpy\Documents\Visual Studio 2013\Projects\c#\ConnectToGoServer\ConnectToGoServer\bin\Debug\ConnectToGoServer.exe
+C:\Users\pcbpy\Documents\Visual Studio 2013\Projects\c#\ConnectToGoServer\ConnectToGoServer\bin\Debug\ConnectToGoServer.pdb
+C:\Users\pcbpy\Documents\Visual Studio 2013\Projects\c#\ConnectToGoServer\ConnectToGoServer\obj\Debug\ConnectToGoServer.Form1.resources
+C:\Users\pcbpy\Documents\Visual Studio 2013\Projects\c#\ConnectToGoServer\ConnectToGoServer\obj\Debug\ConnectToGoServer.Properties.Resources.resources
+C:\Users\pcbpy\Documents\Visual Studio 2013\Projects\c#\ConnectToGoServer\ConnectToGoServer\obj\Debug\ConnectToGoServer.csproj.GenerateResource.Cache
